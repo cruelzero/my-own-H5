@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cruel Zero, hello world！
 
 You can use the [editor on GitHub](https://github.com/cruelzero/my-own-H5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
